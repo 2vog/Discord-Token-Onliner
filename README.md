@@ -1,4 +1,4 @@
-<h1 align="center">OGE & 2V  Token Onliner</h1>
+<h1 align="center">OGE Token Onliner</h1>
 <p align="center">a Free and Working Token Onliner Tool</p>
 
 This version of the token onliner tool only supports **Windows**.
